@@ -3,6 +3,6 @@
 
 ##***SyntheticForge*** - open-source data synthesis solution for LLM.
 
-##***How to start:****
+##***How to start:***
 
 ```!pip install sforge```
