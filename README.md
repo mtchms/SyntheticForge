@@ -3,6 +3,8 @@
 
 ## ***SyntheticForge*** - open-source data synthesis solution for LLM.
 
+***SyntheticForge*** supports API providers: OpenAI, Perplexity, Anthropic, DeepSeek, YandexGPT, GigaChat and local-based models.
+
 ## ***How to start:***
 
 ```pip install sforge```
