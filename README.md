@@ -5,4 +5,4 @@
 
 ## ***How to start:***
 
-```!pip install sforge```
+```pip install sforge```
