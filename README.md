@@ -4,6 +4,7 @@
 ## ***SyntheticForge*** - open-source data synthesis solution for LLM.
 
 ***SyntheticForge*** supports API providers: ***OpenAI***, ***Perplexity***, ***Anthropic***, ***DeepSeek***, ***YandexGPT***, ***GigaChat***, ***Mistral*** and ***local-based*** models.
+
 This tool can synthesize code and text data or mark up existing ones.
 
 ## ***How to start:***
