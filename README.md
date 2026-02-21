@@ -7,7 +7,7 @@
   Text Synthesizer and Evaluator
 </h1>
 <h4 align="center"> A Multi-Agent System for High-Quality Text Data Synthesis and Evaluation. </h4>
-<h4 align="center"> One Your Prompt - Hours of Autonomous Operation for Synthetic Forge Agents. Flexible, no-code configuration of agent pipelines. </h4>
+<h4 align="center"> One Your Prompt - Hours of Autonomous Operations for Synthetic Forge Agents. Flexible, no-code configuration of agent pipelines. </h4>
 
 <div align="center">
 
