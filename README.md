@@ -4,9 +4,9 @@
 <a name="readme-top"></a>
 <h1 align="center">
   <br>
-  AI Gateway
+  Text Synthesizer
 </h1>
-<h4 align="center"> High Quality Synthetic Text Data </h4>
+<h4 align="center"> A Multi-Agent System for High-Quality Text Data Synthesis Using </h4>
 
 <div align="center">
 
