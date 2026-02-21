@@ -4,7 +4,7 @@
 <a name="readme-top"></a>
 <h1 align="center">
   <br>
-  Text Synthesizer
+  Text Synthesizer and Evaluator
 </h1>
 <h4 align="center"> A Multi-Agent System for High-Quality Text Data Synthesis and Evaluation </h4>
 
