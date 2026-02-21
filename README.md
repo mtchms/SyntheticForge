@@ -6,7 +6,7 @@
   <br>
   Text Synthesizer
 </h1>
-<h4 align="center"> A Multi-Agent System for High-Quality Text Data Synthesis Using </h4>
+<h4 align="center"> A Multi-Agent System for High-Quality Text Data Synthesis </h4>
 
 <div align="center">
 
