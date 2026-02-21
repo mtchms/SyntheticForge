@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## ***SyntheticForge*** - open-source data synthesis solution for LLM.
+## ***SyntheticForge*** - open-source data synthesis and valuation solution for LLM.
 
 ***SyntheticForge*** supports API providers: ***OpenAI***, ***Perplexity***, ***Anthropic***, ***DeepSeek***, ***YandexGPT***, ***GigaChat***, ***Mistral*** and ***local-based*** models.
 
