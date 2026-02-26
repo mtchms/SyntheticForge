@@ -1,4 +1,4 @@
-# SyntheticForge
+# SyntheticForge (in development)
 ![generated-image (3)](https://github.com/user-attachments/assets/b50e6b1c-4058-49a8-98a9-07a66c5fd948)
 
 <a name="readme-top"></a>
@@ -16,7 +16,4 @@
 
 This tool can synthesize and evaluate text data and do it with existing ones.
 
-## ***How to start:***
-
-## ***How to start:***
 ## ***How to start:***
