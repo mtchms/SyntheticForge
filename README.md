@@ -10,6 +10,7 @@
 <h4 align="center"> One Your Prompt - Hours of Autonomous Operations for Synthetic Forge Agents. Flexible, no-code configuration of agent pipelines. </h4>
 
 <div align="center">
+  
 ## ***LLMs integration:***
 ***SyntheticForge*** supports all ***API providers*** and ***local-based*** models.
 
